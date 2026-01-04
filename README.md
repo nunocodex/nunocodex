@@ -1,21 +1,32 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=nunocodex" alt="nunocodex"/> </p>
+# Hi, I'm Ricardo 👋  
+**Senior Backend Developer | Laravel Specialist | API Integration Expert**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunocodex&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-c)](https://github.com/nunocodex/github-readme-stats)
+### 🚀 About Me
+Backend developer with 15+ years of experience.  
+I build reliable, modular and scalable systems using **Laravel**, **REST APIs**, **data synchronization engines**, and **automation workflows**.
 
+Worked as a contractor for **Deloitte** on enterprise projects for **Luiss University** and **Luiss Business School**.
 
-[![nunocodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunocodex&count_private=true&show_icons=true&theme=synthwave)](https://github.com/nunocodex/github-readme-stats)
+---
 
-<!--
-**nunocodex/nunocodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+- **Backend:** PHP 8.x, Laravel 8–12, REST APIs, OAuth2  
+- **CMS:** WordPress (plugins, themes, multisite), Drupal  
+- **Database:** MySQL, MariaDB, SQLite  
+- **DevOps:** Docker, Linux, Apache, PHP-FPM  
+- **Frontend:** Livewire, Alpine.js, Vue.js (basic), Tailwind  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+#### 🔹 SyncHub
+Multi-source data synchronization engine (Laravel 12).  
+**Tech:** Laravel, Queues, API integrations, rate limiting.
+
+#### 🔹 Tecnag
+Enterprise platform for technical reports.  
+**Tech:** Laravel, Nova, OAuth, PDF service.
+
+#### 🔹 Anime Watch Platform
+Anime streaming platform with scraping engine.  
+**Tech:** Laravel, Livewire, scraping, video proxy.

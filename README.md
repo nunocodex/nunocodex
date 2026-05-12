@@ -1,32 +1,30 @@
-# Hi, I'm Ricardo 👋  
-**Senior Backend Developer | Laravel Specialist | API Integration Expert**
+# Hi, I'm Ricardo 👋
 
-### 🚀 About Me
-Backend developer with 15+ years of experience.  
-I build reliable, modular and scalable systems using **Laravel**, **REST APIs**, **data synchronization engines**, and **automation workflows**.
+Backend developer — PHP/Laravel, API integration (REST & SOAP),
+config-driven architectures.
+Currently exploring AI-assisted development with Claude Code
+and OpenCode.
 
-Worked as a contractor for **Deloitte** on enterprise projects for **Luiss University** and **Luiss Business School**.
-
----
-
-### 🔧 Tech Stack
-- **Backend:** PHP 8.x, Laravel 8–12, REST APIs, OAuth2  
-- **CMS:** WordPress (plugins, themes, multisite), Drupal  
-- **Database:** MySQL, MariaDB, SQLite  
-- **DevOps:** Docker, Linux, Apache, PHP-FPM  
-- **Frontend:** Livewire, Alpine.js, Vue.js (basic), Tailwind  
+Most of my production PHP/Laravel work is proprietary.
 
 ---
 
-### 📌 Featured Projects
-#### 🔹 SyncHub
-Multi-source data synchronization engine (Laravel 12).  
-**Tech:** Laravel, Queues, API integrations, rate limiting.
+## 🔧 Stack
 
-#### 🔹 Tecnag
-Enterprise platform for technical reports.  
-**Tech:** Laravel, Nova, OAuth, PDF service.
+PHP 8.2+ · Laravel · WordPress · REST/SOAP · OpenAPI
+Vue 3 · TypeScript · Tailwind CSS · MySQL
+Claude Code · OpenCode · CrewAI · Ollama · Docker
 
-#### 🔹 Anime Watch Platform
-Anime streaming platform with scraping engine.  
-**Tech:** Laravel, Livewire, scraping, video proxy.
+---
+
+## 🔹 Open source
+
+**opencode-personal-agent**
+Telegram bot for OpenCode agents — multi-model (DeepSeek,
+GLM, Kimi), local voice transcription, 84% test coverage.
+→ github.com/nunocodex/opencode-personal-agent
+
+**personal-ai-agent**
+Local RAG agent for document classification and semantic
+search — offline, privacy-first, vision for scanned PDFs.
+→ github.com/nunocodex/personal-ai-agent
